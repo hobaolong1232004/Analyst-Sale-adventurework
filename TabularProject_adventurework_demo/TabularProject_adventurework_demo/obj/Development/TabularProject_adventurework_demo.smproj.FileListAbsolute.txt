@@ -1,0 +1,7 @@
+D:\LEARN\SQL 2019 SSAS SSIS_data ware house\SSAS_demo\TabularProject_adventurework_demo\TabularProject_adventurework_demo\bin\Model.asdatabase
+D:\LEARN\SQL 2019 SSAS SSIS_data ware house\SSAS_demo\TabularProject_adventurework_demo\TabularProject_adventurework_demo\bin\Model.deploymenttargets
+D:\LEARN\SQL 2019 SSAS SSIS_data ware house\SSAS_demo\TabularProject_adventurework_demo\TabularProject_adventurework_demo\bin\Model.deploymentoptions
+D:\LEARN\SQL 2019 SSAS SSIS_data ware house\SSAS_demo\TabularProject_adventurework_demo\TabularProject_adventurework_demo\obj\Development\TabularProject_adventurework_demo.smproj.CoreCompileInputs.cache
+D:\LEARN\SQL 2019 SSAS SSIS_data ware house\SSAS_demo\TabularProject_adventurework_demo\TabularProject_adventurework_demo\obj\Development\Model.asdatabase
+D:\LEARN\SQL 2019 SSAS SSIS_data ware house\SSAS_demo\TabularProject_adventurework_demo\TabularProject_adventurework_demo\obj\Development\Model.deploymentoptions
+D:\LEARN\SQL 2019 SSAS SSIS_data ware house\SSAS_demo\TabularProject_adventurework_demo\TabularProject_adventurework_demo\obj\Development\Model.deploymenttargets
